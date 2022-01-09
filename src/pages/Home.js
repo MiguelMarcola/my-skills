@@ -4,7 +4,8 @@ import { View,
         StyleSheet,  
         TextInput, 
         Platform,
-        FlatList
+        FlatList,
+        StatusBar
 } from 'react-native'
 
 import { Button } from "./components/Button";
